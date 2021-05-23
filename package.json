@@ -1,0 +1,17 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe game",
+  "main": "main.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "George Pasieshvili",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.12.1",
+    "parcel-bundler": "^1.12.5",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
